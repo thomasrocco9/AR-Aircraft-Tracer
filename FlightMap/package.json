@@ -1,0 +1,16 @@
+{
+  "name": "flight_map",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^33.2.1",
+    "leaflet": "^1.9.4"
+  },
+  "description": ""
+}
