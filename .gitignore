@@ -1,0 +1,9 @@
+/Prototypes/ar_adsb/build
+/Prototypes/ar_adsb_realtime/build
+/Prototypes/udb/build
+/x64
+/Plugin/x64
+/DatabaseFilter/x64
+/.vs
+/FlightMap/node_modules
+/OldFlightMap/Build
